@@ -4,6 +4,6 @@ document.getElementById("surpriseButton").addEventListener("click", function() {
     if (!surprise.classList.contains("hidden")) {
         this.textContent = "Ocultar sorpresa";
     } else {
-        this.textContent = "Haz clic para una sorpresa";
+        this.textContent = "Click aqui preciosa ♡";
     }
 });
